@@ -8,7 +8,7 @@ import Home from './pages/home/home';
 
 function App() {
   return ( 
-        <Router>
+        <Router basename="/MyFit">
 
           <Routes>
             <Route path="/" element={<Home />} />
