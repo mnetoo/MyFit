@@ -15,7 +15,7 @@
 .workouts-grid {
   display: flex;
   flex-direction: column;
-  gap: 15px; /* Reduzi um pouco o gap já que vão estar fechados */
+  gap: 15px;
 }
 
 /* Cartão do dia de treino */
